@@ -1,0 +1,9 @@
+.photosize {
+width: 200px;
+height: 200px;
+}
+
+.photosize-port {
+    width: 350px;
+    height: 350px;
+}
