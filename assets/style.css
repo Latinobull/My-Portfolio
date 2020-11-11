@@ -1,14 +1,15 @@
+/*Photo sizing for "About Me" page*/
 .photosize {
 width: 200px;
 height: 200px;
 }
-
+/*Photo sizing for the portfolio photos */
 .photosize-port {
     width: 300px;
     height: 300px;
     padding-bottom: 80px;
 }
-
+/* Background Image */
 .background {
     background-image: url("grey-and-gold.jpg");
     background-size: cover;
